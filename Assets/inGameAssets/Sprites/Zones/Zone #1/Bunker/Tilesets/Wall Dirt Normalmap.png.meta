@@ -1,0 +1,604 @@
+fileFormatVersion: 2
+guid: 62f0aa5ed88c5e9459e5c3d66a2f5487
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 1
+    externalNormalMap: 0
+    heightScale: 0.125
+    normalMapFilter: 1
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 1
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DARK Edition Tileset No background_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cd475925a7a6b43a743175d272a452
+      internalID: -1611138591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK Edition Tileset No background_102
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0703d5f8fe44c8843919f8a903f10e41
+      internalID: -368573968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK Edition Tileset No background_115
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea211e69af4fef14396fccdace42c299
+      internalID: 1136209039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK Edition Tileset No background_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c0c3e163c577c4e8b9e51e1b55bf85
+      internalID: -1730823917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK Edition Tileset No background_127
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e007db2ca77e6824c991ec1d3576cb1e
+      internalID: -1915835501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK Edition Tileset No background_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74daf0ee887c00e479dcb3af4b4ba0e1
+      internalID: -1558253996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK Edition Tileset No background_139
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f22386ccd0ae740b7e05ac9f15436d
+      internalID: -147636921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK Edition Tileset No background_140
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8d642bc48ea3740a09e1019cdcc80e
+      internalID: 561918774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK Edition Tileset No background_146
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac86a711bf13b05448818c2ae00a2654
+      internalID: -846654365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK Edition Tileset No background_147
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c903d604ae0f434aae139752d9fdcea
+      internalID: -1945561108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK Edition Tileset No background_159
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00bad60d14ba9a418ae65a76349b583
+      internalID: 1463151324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK Edition Tileset No background_160
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd6616be7259074cb56d9f519f2a8c5
+      internalID: -1925287881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK Edition Tileset No background_168
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5788afd8357ad6043ae6f3f6de8f6ab1
+      internalID: -1462880728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DARK Edition Tileset No background_169
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f9b35c7e01e224c93fcdf54a0d800c
+      internalID: -1639994252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DARK Edition Tileset No background_0: -664514691
+      DARK Edition Tileset No background_1: 1635570717
+      DARK Edition Tileset No background_10: -1862962671
+      DARK Edition Tileset No background_100: -2050759983
+      DARK Edition Tileset No background_101: -1611138591
+      DARK Edition Tileset No background_102: -368573968
+      DARK Edition Tileset No background_103: 2028015086
+      DARK Edition Tileset No background_104: 1996103111
+      DARK Edition Tileset No background_105: 1833991275
+      DARK Edition Tileset No background_106: 629725244
+      DARK Edition Tileset No background_107: 981971579
+      DARK Edition Tileset No background_108: -1720477230
+      DARK Edition Tileset No background_109: -812324017
+      DARK Edition Tileset No background_11: 652710795
+      DARK Edition Tileset No background_110: -997384357
+      DARK Edition Tileset No background_111: -925539827
+      DARK Edition Tileset No background_112: -311829397
+      DARK Edition Tileset No background_113: -2027891760
+      DARK Edition Tileset No background_114: 980673275
+      DARK Edition Tileset No background_115: 1136209039
+      DARK Edition Tileset No background_116: -1730823917
+      DARK Edition Tileset No background_117: -1452873893
+      DARK Edition Tileset No background_118: 1033379818
+      DARK Edition Tileset No background_119: 1494367945
+      DARK Edition Tileset No background_12: -1294185170
+      DARK Edition Tileset No background_120: 1231592092
+      DARK Edition Tileset No background_121: 1728841977
+      DARK Edition Tileset No background_122: -59836949
+      DARK Edition Tileset No background_123: 1123893176
+      DARK Edition Tileset No background_124: 539937244
+      DARK Edition Tileset No background_125: 1220596045
+      DARK Edition Tileset No background_126: 1574653189
+      DARK Edition Tileset No background_127: -1915835501
+      DARK Edition Tileset No background_128: -1558253996
+      DARK Edition Tileset No background_129: 182189414
+      DARK Edition Tileset No background_13: -1093265711
+      DARK Edition Tileset No background_130: -1680211677
+      DARK Edition Tileset No background_131: -1457559337
+      DARK Edition Tileset No background_132: -677354313
+      DARK Edition Tileset No background_133: -315031457
+      DARK Edition Tileset No background_134: -1649761372
+      DARK Edition Tileset No background_135: 1282715489
+      DARK Edition Tileset No background_136: -724855235
+      DARK Edition Tileset No background_137: -1936966806
+      DARK Edition Tileset No background_138: -654694718
+      DARK Edition Tileset No background_139: -147636921
+      DARK Edition Tileset No background_14: 1316680032
+      DARK Edition Tileset No background_140: 561918774
+      DARK Edition Tileset No background_141: 1861465142
+      DARK Edition Tileset No background_142: -1644427158
+      DARK Edition Tileset No background_143: -1230491482
+      DARK Edition Tileset No background_144: 1933866519
+      DARK Edition Tileset No background_145: -1039754693
+      DARK Edition Tileset No background_146: -846654365
+      DARK Edition Tileset No background_147: -1945561108
+      DARK Edition Tileset No background_148: 1706096866
+      DARK Edition Tileset No background_149: 866369776
+      DARK Edition Tileset No background_15: -1874858838
+      DARK Edition Tileset No background_150: -2028216015
+      DARK Edition Tileset No background_151: 1489798399
+      DARK Edition Tileset No background_152: -1477712949
+      DARK Edition Tileset No background_153: 545485096
+      DARK Edition Tileset No background_154: 1171486947
+      DARK Edition Tileset No background_155: -2054900378
+      DARK Edition Tileset No background_156: -217654993
+      DARK Edition Tileset No background_157: 1882355999
+      DARK Edition Tileset No background_158: -823523924
+      DARK Edition Tileset No background_159: 1463151324
+      DARK Edition Tileset No background_16: 2069626109
+      DARK Edition Tileset No background_160: -1925287881
+      DARK Edition Tileset No background_161: -820148646
+      DARK Edition Tileset No background_162: 53508774
+      DARK Edition Tileset No background_163: -1741648224
+      DARK Edition Tileset No background_164: 285217657
+      DARK Edition Tileset No background_165: 22715599
+      DARK Edition Tileset No background_166: -50993875
+      DARK Edition Tileset No background_167: 1936282477
+      DARK Edition Tileset No background_168: -1462880728
+      DARK Edition Tileset No background_169: -1639994252
+      DARK Edition Tileset No background_17: 1205883076
+      DARK Edition Tileset No background_170: -964560991
+      DARK Edition Tileset No background_171: -2036688989
+      DARK Edition Tileset No background_172: 1173195827
+      DARK Edition Tileset No background_173: 2007498703
+      DARK Edition Tileset No background_174: -1839371440
+      DARK Edition Tileset No background_175: 1630737401
+      DARK Edition Tileset No background_176: -1151479965
+      DARK Edition Tileset No background_177: -243811320
+      DARK Edition Tileset No background_178: -881105281
+      DARK Edition Tileset No background_179: 562615820
+      DARK Edition Tileset No background_18: -877744427
+      DARK Edition Tileset No background_180: -1625447964
+      DARK Edition Tileset No background_181: -1999200004
+      DARK Edition Tileset No background_19: 911772076
+      DARK Edition Tileset No background_2: 1223006668
+      DARK Edition Tileset No background_20: -1624739951
+      DARK Edition Tileset No background_21: -1724404676
+      DARK Edition Tileset No background_22: -1510014741
+      DARK Edition Tileset No background_23: 646173422
+      DARK Edition Tileset No background_24: 729075241
+      DARK Edition Tileset No background_25: -1542588158
+      DARK Edition Tileset No background_26: -172202672
+      DARK Edition Tileset No background_27: -346081762
+      DARK Edition Tileset No background_28: -513691433
+      DARK Edition Tileset No background_29: 1655215823
+      DARK Edition Tileset No background_3: 918951755
+      DARK Edition Tileset No background_30: -423539037
+      DARK Edition Tileset No background_31: 1162820076
+      DARK Edition Tileset No background_32: -562529505
+      DARK Edition Tileset No background_33: 588753773
+      DARK Edition Tileset No background_34: -759931982
+      DARK Edition Tileset No background_35: 144721286
+      DARK Edition Tileset No background_36: 1559583457
+      DARK Edition Tileset No background_37: 913474150
+      DARK Edition Tileset No background_38: -816120571
+      DARK Edition Tileset No background_39: -1251152068
+      DARK Edition Tileset No background_4: -605362833
+      DARK Edition Tileset No background_40: 1311629286
+      DARK Edition Tileset No background_41: -663012909
+      DARK Edition Tileset No background_42: -210972951
+      DARK Edition Tileset No background_43: -1299402364
+      DARK Edition Tileset No background_44: 1164652457
+      DARK Edition Tileset No background_45: -634123405
+      DARK Edition Tileset No background_46: -1951632301
+      DARK Edition Tileset No background_47: 591164366
+      DARK Edition Tileset No background_48: -98820807
+      DARK Edition Tileset No background_49: -728530276
+      DARK Edition Tileset No background_5: -1565492682
+      DARK Edition Tileset No background_50: 1091835644
+      DARK Edition Tileset No background_51: -957113332
+      DARK Edition Tileset No background_52: -966129538
+      DARK Edition Tileset No background_53: 796223272
+      DARK Edition Tileset No background_54: 1516210728
+      DARK Edition Tileset No background_55: -1157254609
+      DARK Edition Tileset No background_56: 1002548532
+      DARK Edition Tileset No background_57: 2069301514
+      DARK Edition Tileset No background_58: 317178488
+      DARK Edition Tileset No background_59: 951553095
+      DARK Edition Tileset No background_6: 625068446
+      DARK Edition Tileset No background_60: 116724088
+      DARK Edition Tileset No background_61: -720160386
+      DARK Edition Tileset No background_62: 823191545
+      DARK Edition Tileset No background_63: -101256165
+      DARK Edition Tileset No background_64: -718583272
+      DARK Edition Tileset No background_65: -1892174873
+      DARK Edition Tileset No background_66: 1052037197
+      DARK Edition Tileset No background_67: 2089378271
+      DARK Edition Tileset No background_68: 399332670
+      DARK Edition Tileset No background_69: -371960626
+      DARK Edition Tileset No background_7: 1687288821
+      DARK Edition Tileset No background_70: -985938766
+      DARK Edition Tileset No background_71: 194284575
+      DARK Edition Tileset No background_72: -1236958672
+      DARK Edition Tileset No background_73: -1793914009
+      DARK Edition Tileset No background_74: 752062343
+      DARK Edition Tileset No background_75: 1205242184
+      DARK Edition Tileset No background_76: -942760283
+      DARK Edition Tileset No background_77: 1948274842
+      DARK Edition Tileset No background_78: 1384870533
+      DARK Edition Tileset No background_79: 1513536348
+      DARK Edition Tileset No background_8: -401155350
+      DARK Edition Tileset No background_80: -2023477536
+      DARK Edition Tileset No background_81: -842747461
+      DARK Edition Tileset No background_82: 1520552810
+      DARK Edition Tileset No background_83: -613365009
+      DARK Edition Tileset No background_84: -1591140454
+      DARK Edition Tileset No background_85: 1099861061
+      DARK Edition Tileset No background_86: 1426872538
+      DARK Edition Tileset No background_87: -392275866
+      DARK Edition Tileset No background_88: 1375941813
+      DARK Edition Tileset No background_89: -1080356174
+      DARK Edition Tileset No background_9: 1305510662
+      DARK Edition Tileset No background_90: -1002179485
+      DARK Edition Tileset No background_91: -679513921
+      DARK Edition Tileset No background_92: 379684054
+      DARK Edition Tileset No background_93: -48461790
+      DARK Edition Tileset No background_94: 982956400
+      DARK Edition Tileset No background_95: 994418461
+      DARK Edition Tileset No background_96: 90558297
+      DARK Edition Tileset No background_97: -1937014106
+      DARK Edition Tileset No background_98: 1180549344
+      DARK Edition Tileset No background_99: 166804734
+      Wall Dirt_0: 703826867
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

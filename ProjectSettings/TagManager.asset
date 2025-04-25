@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Interactable
+  - AccessKey
+  - Turret
+  - Bullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - Projectiles
+  - landMine
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background 3
+    uniqueID: 2415541923
+    locked: 0
+  - name: VFXBackground_1
+    uniqueID: 1061467115
+    locked: 0
+  - name: Background 2
+    uniqueID: 2573564395
+    locked: 0
+  - name: Background 1
+    uniqueID: 2718421845
+    locked: 0
+  - name: VFXBackground_0
+    uniqueID: 3789421549
+    locked: 0
+  - name: Mid_ground
+    uniqueID: 1144183351
+    locked: 0
+  - name: Player
+    uniqueID: 176394191
+    locked: 0
+  - name: VFXForeground_1
+    uniqueID: 896785325
+    locked: 0
+  - name: Foreground 1
+    uniqueID: 1154637627
+    locked: 0
+  - name: Foreground 2
+    uniqueID: 3960362845
+    locked: 0
+  - name: Foreground 3
+    uniqueID: 3169198141
+    locked: 0
+  - name: VFXForeground_0
+    uniqueID: 3730942629
+    locked: 0
