@@ -57,11 +57,11 @@ public class exitController : MonoBehaviour {
 			MaxyGames.UNode.GraphDebug.Flow(this, -646259854, 14, "onTrue");
 			MaxyGames.UNode.GraphDebug.Value(_playerOut = true, this, -646259854, 16, "target", true);
 			MaxyGames.UNode.GraphDebug.Flow(this, -646259854, 16, "exit");
-			MaxyGames.UNode.GraphDebug.Value(MaxyGames.UNode.GraphDebug.Value(roomCameraManager, this, -646259854, 167, "input", false).GetComponent<RoomTransitionVFX>(), this, -646259854, 163, "-instance", false).ExitVFX();
-			MaxyGames.UNode.GraphDebug.Flow(this, -646259854, 163, "exit");
+			MaxyGames.UNode.GraphDebug.Value(MaxyGames.UNode.GraphDebug.Value(roomCameraManager, this, -646259854, 186, "input", false).GetComponent<SpriteFader>(), this, -646259854, 185, "-instance", false).PerformFullTransition();
+			MaxyGames.UNode.GraphDebug.Flow(this, -646259854, 185, "exit");
 			PlayerOut();
 			MaxyGames.UNode.GraphDebug.FlowNode(this, -646259854, 151, true);
-			MaxyGames.UNode.GraphDebug.FlowNode(this, -646259854, 163, true);
+			MaxyGames.UNode.GraphDebug.FlowNode(this, -646259854, 185, true);
 			MaxyGames.UNode.GraphDebug.FlowNode(this, -646259854, 16, true);
 			MaxyGames.UNode.GraphDebug.FlowNode(this, -646259854, 14, true);
 		} else {
@@ -75,7 +75,7 @@ public class exitController : MonoBehaviour {
 			timerOn = true;
 			elapsed = 0;
 			paused = false;
-			duration = MaxyGames.UNode.GraphDebug.Value(MaxyGames.UNode.GraphDebug.Value(MaxyGames.UNode.GraphDebug.Value(roomCameraManager, this, -646259854, 178, "input", false).GetComponent<RoomTransitionVFX>(), this, -646259854, 174, "-instance", false).exitTime, this, -646259854, 150, "waitTime", false);
+			duration = 0.8F;
 		}
 	}
 }

@@ -19,10 +19,11 @@ public class teleportingDoor : MonoBehaviour {
 	public Transform teleportingPosition;
 	public GameObject childDoor;
 	public GameObject roomCamManager;
+	public float durationEntrance;
 	
 	private void Update() {
 		if(((playerIn == true) && player.GetComponent<interactionManager>().interactionKey.action.triggered)) {
-			roomCamManager.GetComponent<RoomTransitionVFX>().EntranceVFX();
+			roomCamManager.GetComponent<SpriteFader>().PerformFullTransition();
 			Teleport();
 		}
 		if(timerOn && !paused) {
@@ -63,7 +64,7 @@ public class teleportingDoor : MonoBehaviour {
 			timerOn = true;
 			elapsed = 0;
 			paused = false;
-			duration = roomCamManager.GetComponent<RoomTransitionVFX>().entranceTime;
+			duration = durationEntrance;
 		}
 	}
 }

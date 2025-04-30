@@ -241,6 +241,12 @@ public class playerController : MonoBehaviour {
 		}
 	}
 	
+	public void Death() {
+		MaxyGames.UNode.GraphDebug.Flow(this, 866747430, 553, "exit");
+		MaxyGames.UNode.GraphDebug.Value(this.GetComponent<Rigidbody2D>().freezeRotation = MaxyGames.UNode.GraphDebug.Value((MaxyGames.UNode.GraphDebug.Value(MaxyGames.UNode.GraphDebug.Value(MaxyGames.UNode.GraphDebug.Value(this, this, 866747430, 560, "input", false).GetComponent<Rigidbody2D>(), this, 866747430, 555, "-instance", false).freezeRotation, this, 866747430, 558, "inputA", false) == false), this, 866747430, 557, "value", false), this, 866747430, 557, "target", true);
+		MaxyGames.UNode.GraphDebug.FlowNode(this, 866747430, 557, true);
+	}
+	
 	System.Collections.IEnumerable _ExecuteCoroutineEvent(int uid) {
 		switch(uid) {
 			case 0: {

@@ -13,5 +13,5 @@ EditorBuildSettings:
     guid: 842e5a6a01ff641419428c9ec1b47ea2
   - enabled: 1
     path: Assets/inGameAssets/Scene/Zone #1/Cavern.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    guid: f46329efd21221642bc202b02756eaa9
   m_configObjects: {}

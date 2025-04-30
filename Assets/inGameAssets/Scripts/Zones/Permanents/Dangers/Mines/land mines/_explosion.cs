@@ -11,6 +11,8 @@ public class _explosion : MonoBehaviour
 
     public void Explode()
     {
+        
+        
         inExplosionRadius = Physics2D.OverlapCircleAll(transform.position, explosionRadius);
 
         foreach (Collider2D o in inExplosionRadius)

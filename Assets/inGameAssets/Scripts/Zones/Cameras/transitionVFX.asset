@@ -3813,16 +3813,16 @@ MonoBehaviour:
         Data: UnityEngine.Rect, UnityEngine.CoreModule
       - Name: 
         Entry: 4
-        Data: -64
+        Data: -50
       - Name: 
         Entry: 4
-        Data: 127
+        Data: 0
       - Name: 
         Entry: 4
-        Data: 141
+        Data: NaN
       - Name: 
         Entry: 4
-        Data: 68
+        Data: NaN
       - Name: 
         Entry: 8
         Data: 
