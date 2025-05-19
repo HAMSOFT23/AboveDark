@@ -2,7 +2,8 @@
 using UnityEngine;
 using System.Collections.Generic;
 
-public class FlySwarm : MonoBehaviour {	
+public class FlySwarm : MonoBehaviour 
+{	
 	[Header("Fly Settings")]
 	public GameObject flyPrefab;
 	public int numberOfFlies = 20;

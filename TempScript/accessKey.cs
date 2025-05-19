@@ -83,7 +83,7 @@ public class accessKey : MonoBehaviour {
 	
 	public void KeyPicked() {
 		if(((_onInteractiontRange == true) && _player.GetComponent<interactionManager>().interactionKey.action.triggered)) {
-			Debug.Log("Ha sido recogida");
+			Debug.Log("key Picked");
 			_player.GetComponent<playerController>()._keyPicked = true;
 			Object.Destroy(this.gameObject.gameObject);
 		}
