@@ -6,14 +6,10 @@ using NaughtyAttributes;
 
 public class interactionManager : MonoBehaviour {	
 	public InputActionReference interactionKey;
-	public InputActionReference escapeKey;
 	public bool _isInteractable;
 	
 	private void Update() {
 		InteractionEvent();
-		if(escapeKey.action.triggered) {
-			Application.Quit();
-		}
 	}
 	
 	public void InteractionEvent() {

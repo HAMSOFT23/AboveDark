@@ -8,6 +8,7 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 2
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -1404,518 +1405,587 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 1056497529
+    uuid:
+      value0: 2912853149
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: -1382114147
     name: Statement Piece 2
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Statement Piece 2_Frame_0
+    - name: Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: adf42f3e8c594b84bb94a8657c24a375
-    - name: Statement Piece 2_Frame_1
+    - name: Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 765ad6f33c08ddb4892ed4f5a40edf1d
-    - name: Statement Piece 2_Frame_2
+    - name: Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 31cb61bc53bb88c439a8a22335b951cc
-    - name: Statement Piece 2_Frame_3
+    - name: Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: d9e4b30f01da1e344b9625984430e243
-    - name: Statement Piece 2_Frame_4
+    - name: Frame_4
       frameIndex: 4
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 39f76dccee81a2244bee1605ce2b782f
-    - name: Statement Piece 2_Frame_5
+    - name: Frame_5
       frameIndex: 5
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: b1ed007b51c32db4989f2efc7d03ffbb
-    - name: Statement Piece 2_Frame_6
+    - name: Frame_6
       frameIndex: 6
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 9f816ff359a6c1f4599c34b5220a56e9
-    - name: Statement Piece 2_Frame_7
+    - name: Frame_7
       frameIndex: 7
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 2c6b88825cdac39408e3da50972774a3
-    - name: Statement Piece 2_Frame_8
+    - name: Frame_8
       frameIndex: 8
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 91c7a02f2d8e5974a88241bd74c15ad8
-    - name: Statement Piece 2_Frame_9
+    - name: Frame_9
       frameIndex: 9
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: ccc865c530f1d284e87aaaa9be4fa845
-    - name: Statement Piece 2_Frame_10
+    - name: Frame_10
       frameIndex: 10
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 6c2a4740dea17ad4cb380379a33b0dc0
-    - name: Statement Piece 2_Frame_11
+    - name: Frame_11
       frameIndex: 11
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: bfc4578cef8b5254bbe27ace2966abe9
-    - name: Statement Piece 2_Frame_12
+    - name: Frame_12
       frameIndex: 12
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: d2ee4850abc88a74aad0fd43e4fcb478
-    - name: Statement Piece 2_Frame_13
+    - name: Frame_13
       frameIndex: 13
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: df82d97af8cfdd0439c31582ea7e507c
-    - name: Statement Piece 2_Frame_14
+    - name: Frame_14
       frameIndex: 14
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 1804c5b1c22835b4884cf31451516806
-    - name: Statement Piece 2_Frame_15
+    - name: Frame_15
       frameIndex: 15
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 3fdaf5a0b2788a347a04bfdedbf287b3
-    - name: Statement Piece 2_Frame_16
+    - name: Frame_16
       frameIndex: 16
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 02fc348206052a0469c996a5088f4465
-    - name: Statement Piece 2_Frame_17
+    - name: Frame_17
       frameIndex: 17
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 976082b9792faf14e9e5ae75c7861826
-    - name: Statement Piece 2_Frame_18
+    - name: Frame_18
       frameIndex: 18
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 0d32f3b8e3296e245b4dc63710ce2661
-    - name: Statement Piece 2_Frame_19
+    - name: Frame_19
       frameIndex: 19
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 509632f4ce0eb994ebecfcc1a710d1f4
-    - name: Statement Piece 2_Frame_20
+    - name: Frame_20
       frameIndex: 20
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 0873d4c1bfa5a1144bb59ff9c2d48e72
-    - name: Statement Piece 2_Frame_21
+    - name: Frame_21
       frameIndex: 21
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 399ad258ac816324a9d5e8b58d647da6
-    - name: Statement Piece 2_Frame_22
+    - name: Frame_22
       frameIndex: 22
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 59d6e9216afac81429c5bce963c31842
-    - name: Statement Piece 2_Frame_23
+    - name: Frame_23
       frameIndex: 23
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: aa466e03af9499141b46034757e4a3b8
-    - name: Statement Piece 2_Frame_24
+    - name: Frame_24
       frameIndex: 24
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: a12f52a3d5a847f43aa07b6a26ae91f6
-    - name: Statement Piece 2_Frame_25
+    - name: Frame_25
       frameIndex: 25
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: ea02bf00e410fc846bed56cffcc4a2c6
-    - name: Statement Piece 2_Frame_26
+    - name: Frame_26
       frameIndex: 26
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 3abd8fdf55ceba74aba5e5e958974ebc
-    - name: Statement Piece 2_Frame_27
+    - name: Frame_27
       frameIndex: 27
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 26526212b1eb26d4b80098c1bc3b5bd0
-    - name: Statement Piece 2_Frame_28
+    - name: Frame_28
       frameIndex: 28
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 5ba4581231923f349ab9869bd2c2dec3
-    - name: Statement Piece 2_Frame_29
+    - name: Frame_29
       frameIndex: 29
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: c738fb05c61c4544cb7b77020a09cae3
-    - name: Statement Piece 2_Frame_30
+    - name: Frame_30
       frameIndex: 30
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 06ca6a0867788e54d96f9a0f44e70708
-    - name: Statement Piece 2_Frame_31
+    - name: Frame_31
       frameIndex: 31
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 0583a40095fbf8d4899fca81554f2eba
-    - name: Statement Piece 2_Frame_32
+    - name: Frame_32
       frameIndex: 32
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: eeaf1d41a6a502d4aac5f533fce12d12
-    - name: Statement Piece 2_Frame_33
+    - name: Frame_33
       frameIndex: 33
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 56554e694f58642418a17d2d323a337b
-    - name: Statement Piece 2_Frame_34
+    - name: Frame_34
       frameIndex: 34
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 05d6a9c49c4e4ff4bb78217bf7c76817
-    - name: Statement Piece 2_Frame_35
+    - name: Frame_35
       frameIndex: 35
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: c63765f34f8b364439b1f268584cc313
-    - name: Statement Piece 2_Frame_36
+    - name: Frame_36
       frameIndex: 36
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: ae8ea5e6e93f681428f8713a43484b3c
-    - name: Statement Piece 2_Frame_37
+    - name: Frame_37
       frameIndex: 37
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 7a5b7db120fc51b439f0732efc8ee171
-    - name: Statement Piece 2_Frame_38
+    - name: Frame_38
       frameIndex: 38
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 1a21fbd5315503747a201206534b85b5
-    - name: Statement Piece 2_Frame_39
+    - name: Frame_39
       frameIndex: 39
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: e362808ac6b7a3d4a9f0e17cf9aa06a8
-    - name: Statement Piece 2_Frame_40
+    - name: Frame_40
       frameIndex: 40
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 78dacac1bd3749b41be1f4aabe942e5c
-    - name: Statement Piece 2_Frame_41
+    - name: Frame_41
       frameIndex: 41
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: dbd9437a587b6404194beb266eeff7e7
-    - name: Statement Piece 2_Frame_42
+    - name: Frame_42
       frameIndex: 42
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: b6933f5bf76163a4e8e354d3c51872ac
-    - name: Statement Piece 2_Frame_43
+    - name: Frame_43
       frameIndex: 43
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: a9bb858a2720e154cb2085f49de3712e
-    - name: Statement Piece 2_Frame_44
+    - name: Frame_44
       frameIndex: 44
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 5649510a638184e4686c5da0ecb5e9bc
-    - name: Statement Piece 2_Frame_45
+    - name: Frame_45
       frameIndex: 45
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 4bce31935f65e3f4d8f1dd01e3ce3ca2
-    - name: Statement Piece 2_Frame_46
+    - name: Frame_46
       frameIndex: 46
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 2f5146aeaa27da640b71acbfc63f14c7
-    - name: Statement Piece 2_Frame_47
+    - name: Frame_47
       frameIndex: 47
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 79c3db3e8e9eae44b83f5b242e0371ed
-    - name: Statement Piece 2_Frame_48
+    - name: Frame_48
       frameIndex: 48
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 757aeb7b039abce4dbb12f68b1420ba8
-    - name: Statement Piece 2_Frame_49
+    - name: Frame_49
       frameIndex: 49
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: a0f0a83a940433a46ab2df3cd9ec621a
-    - name: Statement Piece 2_Frame_50
+    - name: Frame_50
       frameIndex: 50
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: a31b5f1e098b51242a80d02b77fb9bab
-    - name: Statement Piece 2_Frame_51
+    - name: Frame_51
       frameIndex: 51
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 2c1fb32a9ef7cd843abdcaf1ff992007
-    - name: Statement Piece 2_Frame_52
+    - name: Frame_52
       frameIndex: 52
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 8b1099e4d92ee9d42b418537dc6b59e0
-    - name: Statement Piece 2_Frame_53
+    - name: Frame_53
       frameIndex: 53
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: a8db046ee884e144f894e9ad53a31cc2
-    - name: Statement Piece 2_Frame_54
+    - name: Frame_54
       frameIndex: 54
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: d87ca27c149702a4f86e0bcd68bff7ba
-    - name: Statement Piece 2_Frame_55
+    - name: Frame_55
       frameIndex: 55
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: fb6c0d60b06cc6b43ab1d4939dece6a3
-    - name: Statement Piece 2_Frame_56
+    - name: Frame_56
       frameIndex: 56
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 59c171f1be81e004a82ab25b0668e6cb
-    - name: Statement Piece 2_Frame_57
+    - name: Frame_57
       frameIndex: 57
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 75d0abc432927154abf8d60e413d7e68
-    - name: Statement Piece 2_Frame_58
+    - name: Frame_58
       frameIndex: 58
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: a6974267ca7631c43b2554d8a63421aa
-    - name: Statement Piece 2_Frame_59
+    - name: Frame_59
       frameIndex: 59
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 8fa88f3959f59374596f8fc3fef331a6
-    - name: Statement Piece 2_Frame_60
+    - name: Frame_60
       frameIndex: 60
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 723461c7d194b5c4383f33b50ccd923e
-    - name: Statement Piece 2_Frame_61
+    - name: Frame_61
       frameIndex: 61
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 5c0c16d0a7767d14cb72f91f135660e2
-    - name: Statement Piece 2_Frame_62
+    - name: Frame_62
       frameIndex: 62
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 225
       spriteId: 683d04db098c2d549b4ad0c49b869ac1
-    - name: Statement Piece 2_Frame_63
+    - name: Frame_63
       frameIndex: 63
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -1929,3 +1999,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 313, y: 192}
+  previousTextureSize: {x: 2048, y: 4096}

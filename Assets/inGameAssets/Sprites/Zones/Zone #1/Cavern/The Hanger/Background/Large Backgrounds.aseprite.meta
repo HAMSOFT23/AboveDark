@@ -8,6 +8,7 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 2
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -644,214 +645,245 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -1484414772
+    uuid:
+      value0: 3469017852
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: -825949444
     name: Large Backgrounds
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Large Backgrounds_Frame_0
+    - name: Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: ba529cd4e36b2e54fb31920b6f6e5df4
-    - name: Large Backgrounds_Frame_1
+    - name: Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: 636d91b742b69cb4590ef7d4d2ed7da0
-    - name: Large Backgrounds_Frame_2
+    - name: Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: 358fd58cdfaa983478727d4458952621
-    - name: Large Backgrounds_Frame_3
+    - name: Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: c7982515cf9caf245a1ea74b482cdd0c
-    - name: Large Backgrounds_Frame_4
+    - name: Frame_4
       frameIndex: 4
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: f67740dbc5c510545aba2688f5df81ed
-    - name: Large Backgrounds_Frame_5
+    - name: Frame_5
       frameIndex: 5
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: 690a9b6aa65370b449a485d47d3be1bf
-    - name: Large Backgrounds_Frame_6
+    - name: Frame_6
       frameIndex: 6
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: 0683cebe622ad834a9f48fa9ac477b04
-    - name: Large Backgrounds_Frame_7
+    - name: Frame_7
       frameIndex: 7
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: e8290caebad8c3b4ba50fc774b12c1c0
-    - name: Large Backgrounds_Frame_8
+    - name: Frame_8
       frameIndex: 8
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: 6d71c94dffe30954cab36e11e41c280b
-    - name: Large Backgrounds_Frame_9
+    - name: Frame_9
       frameIndex: 9
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: 485f218225bd5624899d4b8910613c0a
-    - name: Large Backgrounds_Frame_10
+    - name: Frame_10
       frameIndex: 10
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: b458864c5a854c64e800dde48fa40eda
-    - name: Large Backgrounds_Frame_11
+    - name: Frame_11
       frameIndex: 11
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: 28afa29baf5ccb94f9a119e4ea6f36b1
-    - name: Large Backgrounds_Frame_12
+    - name: Frame_12
       frameIndex: 12
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: 667aa37d595dde344a6f670c5720094a
-    - name: Large Backgrounds_Frame_13
+    - name: Frame_13
       frameIndex: 13
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: 88758fbc2589b8944bc4b5880cd25af1
-    - name: Large Backgrounds_Frame_14
+    - name: Frame_14
       frameIndex: 14
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: ed3234ff66ae06a4fadb85a2a95039ac
-    - name: Large Backgrounds_Frame_15
+    - name: Frame_15
       frameIndex: 15
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: daa40c795d2d479479c60d1dbb776183
-    - name: Large Backgrounds_Frame_16
+    - name: Frame_16
       frameIndex: 16
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: 45e1ae70bd97d83409ae0ab26e0f75b3
-    - name: Large Backgrounds_Frame_17
+    - name: Frame_17
       frameIndex: 17
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: 119e04137f9ce8549a6a623a8bf7911e
-    - name: Large Backgrounds_Frame_18
+    - name: Frame_18
       frameIndex: 18
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: 812a8f0a0a09f8140b9a8fd5c8e84fc3
-    - name: Large Backgrounds_Frame_19
+    - name: Frame_19
       frameIndex: 19
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: f24002f74873a6d4abed451d30279f9b
-    - name: Large Backgrounds_Frame_20
+    - name: Frame_20
       frameIndex: 20
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: 3a2e9ed07c6fc4c45b3af9822dd191d4
-    - name: Large Backgrounds_Frame_21
+    - name: Frame_21
       frameIndex: 21
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: 8c80f3aae24d94c419f70ef167f04c56
-    - name: Large Backgrounds_Frame_22
+    - name: Frame_22
       frameIndex: 22
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: c853beec94626ed42b6c97cd2ca934de
-    - name: Large Backgrounds_Frame_23
+    - name: Frame_23
       frameIndex: 23
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: 918ad19ad01f160409a1f75b6e3cc5ce
-    - name: Large Backgrounds_Frame_24
+    - name: Frame_24
       frameIndex: 24
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
         width: 314
         height: 193
       spriteId: 0d0c155827616254d8dd6b3180b3a6af
-    - name: Large Backgrounds_Frame_25
+    - name: Frame_25
       frameIndex: 25
+      additiveSortOrder: 0
       cellRect:
         x: 0
         y: 0
@@ -865,3 +897,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 313, y: 192}
+  previousTextureSize: {x: 1024, y: 2048}

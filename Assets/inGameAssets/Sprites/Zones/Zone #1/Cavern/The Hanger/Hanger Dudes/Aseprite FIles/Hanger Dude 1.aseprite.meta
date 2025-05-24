@@ -8,6 +8,7 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 2
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -644,214 +645,245 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -932912692
+    uuid:
+      value0: 744130556
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 744130556
     name: Hanger Dude 1
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Hanger Dude 1_Frame_0
+    - name: Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: c62449fa8561c3f479a1739a25e30912
-    - name: Hanger Dude 1_Frame_1
+    - name: Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: b167bd3a4d6a113458e26d21b4f40317
-    - name: Hanger Dude 1_Frame_2
+    - name: Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: d4454aa3b89170541a5107f207b86ec5
-    - name: Hanger Dude 1_Frame_3
+    - name: Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: d59342b2e43036e4ea2b5cbf118db17f
-    - name: Hanger Dude 1_Frame_4
+    - name: Frame_4
       frameIndex: 4
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: e08765221b1e64341b7b936818ed6697
-    - name: Hanger Dude 1_Frame_5
+    - name: Frame_5
       frameIndex: 5
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: aafcd4fca9e17a149a21b95984442739
-    - name: Hanger Dude 1_Frame_6
+    - name: Frame_6
       frameIndex: 6
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: 45fc5f77cad86f7499f6a21d2dfbc88d
-    - name: Hanger Dude 1_Frame_7
+    - name: Frame_7
       frameIndex: 7
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: 360ee286f34730c43ba08dc471c58555
-    - name: Hanger Dude 1_Frame_8
+    - name: Frame_8
       frameIndex: 8
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: 6a173b1306e6e5b4ba7b1156b494c51f
-    - name: Hanger Dude 1_Frame_9
+    - name: Frame_9
       frameIndex: 9
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: ca79ce7f3e4271f448e61dab0a680a45
-    - name: Hanger Dude 1_Frame_10
+    - name: Frame_10
       frameIndex: 10
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: 1d5a75fbd9c13bb4683280584d9d6bfb
-    - name: Hanger Dude 1_Frame_11
+    - name: Frame_11
       frameIndex: 11
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: f0c98062061e6c142be258d171e2a784
-    - name: Hanger Dude 1_Frame_12
+    - name: Frame_12
       frameIndex: 12
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: 987b65d76c29e2f41b42a9622a11399c
-    - name: Hanger Dude 1_Frame_13
+    - name: Frame_13
       frameIndex: 13
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: 827c72a21ecbdeb4aaf7a58346ff5801
-    - name: Hanger Dude 1_Frame_14
+    - name: Frame_14
       frameIndex: 14
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: a2891e2a26fed9546a20caa7e59bc2a0
-    - name: Hanger Dude 1_Frame_15
+    - name: Frame_15
       frameIndex: 15
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: a60d1208b9cbf9c41af96d80622cdec2
-    - name: Hanger Dude 1_Frame_16
+    - name: Frame_16
       frameIndex: 16
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: e87b807c9952ab94fbf857714f84aa2b
-    - name: Hanger Dude 1_Frame_17
+    - name: Frame_17
       frameIndex: 17
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: 3d877fa3c7a60604d80c1360910bc8de
-    - name: Hanger Dude 1_Frame_18
+    - name: Frame_18
       frameIndex: 18
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: d0bb4e87e46e979449329da81d13599e
-    - name: Hanger Dude 1_Frame_19
+    - name: Frame_19
       frameIndex: 19
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: 8cdcaa0c7633f424fa17159044ff3d27
-    - name: Hanger Dude 1_Frame_20
+    - name: Frame_20
       frameIndex: 20
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: ac490fd8d5eec9e4ea497a1f3e88a5df
-    - name: Hanger Dude 1_Frame_21
+    - name: Frame_21
       frameIndex: 21
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: 15225f3976fff8647b5979fc814077c6
-    - name: Hanger Dude 1_Frame_22
+    - name: Frame_22
       frameIndex: 22
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: 44e7ca798588c6c47991fe174df32326
-    - name: Hanger Dude 1_Frame_23
+    - name: Frame_23
       frameIndex: 23
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: 0c7a2d8aab2417747b0df2d815f876f2
-    - name: Hanger Dude 1_Frame_24
+    - name: Frame_24
       frameIndex: 24
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
         width: 128
         height: 128
       spriteId: 581e7575c1140a94890f187274036a2a
-    - name: Hanger Dude 1_Frame_25
+    - name: Frame_25
       frameIndex: 25
+      additiveSortOrder: 0
       cellRect:
         x: -26
         y: -26
@@ -865,3 +897,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 15, y: 93}
+  previousTextureSize: {x: 256, y: 256}

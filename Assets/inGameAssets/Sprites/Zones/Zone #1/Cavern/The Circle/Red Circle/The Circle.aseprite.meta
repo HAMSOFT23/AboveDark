@@ -8,6 +8,7 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 2
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -1404,518 +1405,587 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -1388959561
+    uuid:
+      value0: 1197361235
+      value1: 0
+      value2: 0
+      value3: 0
+    guid: 1197361235
     name: The Circle
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: The Circle_Frame_0
+    - name: Frame_0
       frameIndex: 0
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: fc71f42e7902b5848b4f0e91678014ec
-    - name: The Circle_Frame_1
+    - name: Frame_1
       frameIndex: 1
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: f929f48d6e78f9243bab8f354e397a8a
-    - name: The Circle_Frame_2
+    - name: Frame_2
       frameIndex: 2
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: dd41846a395a0334b9024ef9a34d3e06
-    - name: The Circle_Frame_3
+    - name: Frame_3
       frameIndex: 3
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 172aa28b8cf7d75419205d0d2402b006
-    - name: The Circle_Frame_4
+    - name: Frame_4
       frameIndex: 4
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 3564a43c1e29cfc4aac094b1bb9e6ed5
-    - name: The Circle_Frame_5
+    - name: Frame_5
       frameIndex: 5
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 86bc033b964d42c499dfe91835363f68
-    - name: The Circle_Frame_6
+    - name: Frame_6
       frameIndex: 6
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: b9fdc97d70be28242a6e4ba739f4ca3e
-    - name: The Circle_Frame_7
+    - name: Frame_7
       frameIndex: 7
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: eff56d579ec329341ba78e4c0acda7e2
-    - name: The Circle_Frame_8
+    - name: Frame_8
       frameIndex: 8
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 6b9170ab3bbd2e448880dcfbd95bb48d
-    - name: The Circle_Frame_9
+    - name: Frame_9
       frameIndex: 9
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 2710617b9bc9a514282ec68b104f6644
-    - name: The Circle_Frame_10
+    - name: Frame_10
       frameIndex: 10
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: aecf1dba13a40ab48ab220e9d9412145
-    - name: The Circle_Frame_11
+    - name: Frame_11
       frameIndex: 11
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 25fe9ee8d79d3f94a8d5db24cfb2b828
-    - name: The Circle_Frame_12
+    - name: Frame_12
       frameIndex: 12
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: c13505da780f1c74db4c35a4008f3305
-    - name: The Circle_Frame_13
+    - name: Frame_13
       frameIndex: 13
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: e01db74db5976054da2b041c3edf2fcd
-    - name: The Circle_Frame_14
+    - name: Frame_14
       frameIndex: 14
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 91933bb543a400b4a992e6909c7da5b4
-    - name: The Circle_Frame_15
+    - name: Frame_15
       frameIndex: 15
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 53c040ceee7e27843941ec5ba37c0866
-    - name: The Circle_Frame_16
+    - name: Frame_16
       frameIndex: 16
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: a80f877519161ab45826b3f859677a32
-    - name: The Circle_Frame_17
+    - name: Frame_17
       frameIndex: 17
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 6aea3cd6ad570e641a9bb760e0d25f4f
-    - name: The Circle_Frame_18
+    - name: Frame_18
       frameIndex: 18
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 7e47ea70358961340b417a93da461c35
-    - name: The Circle_Frame_19
+    - name: Frame_19
       frameIndex: 19
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: b45cffcbabef13a4b8320602476da899
-    - name: The Circle_Frame_20
+    - name: Frame_20
       frameIndex: 20
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 2c5cde63f63b56c40881f0e560e804cd
-    - name: The Circle_Frame_21
+    - name: Frame_21
       frameIndex: 21
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: dbe6d770cae30a444ad3fe9086e878f6
-    - name: The Circle_Frame_22
+    - name: Frame_22
       frameIndex: 22
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 4ca1b154566158b4680230308afad541
-    - name: The Circle_Frame_23
+    - name: Frame_23
       frameIndex: 23
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 9d367cdcae56fbd4eb387e0dd7ce9755
-    - name: The Circle_Frame_24
+    - name: Frame_24
       frameIndex: 24
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 395a8882e400e3c49819892930e96991
-    - name: The Circle_Frame_25
+    - name: Frame_25
       frameIndex: 25
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 54e8783f29b98c54ebee35b303d304aa
-    - name: The Circle_Frame_26
+    - name: Frame_26
       frameIndex: 26
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: cfd444ad498c9fa4c895c2c89de8b2aa
-    - name: The Circle_Frame_27
+    - name: Frame_27
       frameIndex: 27
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 6810782bc923f4a4fb71be9a3f06dd52
-    - name: The Circle_Frame_28
+    - name: Frame_28
       frameIndex: 28
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: eb368b4baa67c1e419013e0639920fe5
-    - name: The Circle_Frame_29
+    - name: Frame_29
       frameIndex: 29
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 4c2cdf52b944e784a838ef492270246f
-    - name: The Circle_Frame_30
+    - name: Frame_30
       frameIndex: 30
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 7428c4762bfd3e545947dde9ccb8e296
-    - name: The Circle_Frame_31
+    - name: Frame_31
       frameIndex: 31
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: cdd7cfe29582a6742bb4a12a1f3e31cc
-    - name: The Circle_Frame_32
+    - name: Frame_32
       frameIndex: 32
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 40bbd630a1cc6a7429621fada4326337
-    - name: The Circle_Frame_33
+    - name: Frame_33
       frameIndex: 33
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 647ac91a10d5f2d43802fdb97a699829
-    - name: The Circle_Frame_34
+    - name: Frame_34
       frameIndex: 34
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: a56cff327bec37a428cd62dfba83a418
-    - name: The Circle_Frame_35
+    - name: Frame_35
       frameIndex: 35
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: d996705ea2ef53648ae33a747d76c9eb
-    - name: The Circle_Frame_36
+    - name: Frame_36
       frameIndex: 36
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: a182e53217559d3429f685e51f8f9094
-    - name: The Circle_Frame_37
+    - name: Frame_37
       frameIndex: 37
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: a88c55c843cc725429ec639f491804a6
-    - name: The Circle_Frame_38
+    - name: Frame_38
       frameIndex: 38
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 749c84a317a8ba041904e870ea739ff4
-    - name: The Circle_Frame_39
+    - name: Frame_39
       frameIndex: 39
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 92aac2c9d46eb58419ff49bb364d1818
-    - name: The Circle_Frame_40
+    - name: Frame_40
       frameIndex: 40
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: b45b9030bbd0753409f74f0ad8d9ebbd
-    - name: The Circle_Frame_41
+    - name: Frame_41
       frameIndex: 41
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 6b929bbf3c3ccf04b9de13cad4bc31e0
-    - name: The Circle_Frame_42
+    - name: Frame_42
       frameIndex: 42
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: ece7c4d5cc7548b44b233db128cfa10c
-    - name: The Circle_Frame_43
+    - name: Frame_43
       frameIndex: 43
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: b313232be00d80c4fa57a09b516a6a5f
-    - name: The Circle_Frame_44
+    - name: Frame_44
       frameIndex: 44
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 029daad4f791e0947a9e83fd8bbd3621
-    - name: The Circle_Frame_45
+    - name: Frame_45
       frameIndex: 45
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: a87735840ff8a8e4fa257729cf3e2e47
-    - name: The Circle_Frame_46
+    - name: Frame_46
       frameIndex: 46
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 13d55343440d945458177b76eb2cba85
-    - name: The Circle_Frame_47
+    - name: Frame_47
       frameIndex: 47
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 591b59292fc8d644887e1a7d09c92ecb
-    - name: The Circle_Frame_48
+    - name: Frame_48
       frameIndex: 48
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 80bb20b48f7b54a4f8bc5a613693100a
-    - name: The Circle_Frame_49
+    - name: Frame_49
       frameIndex: 49
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 43fab6d68ba2dd74181b61e6d8ab46db
-    - name: The Circle_Frame_50
+    - name: Frame_50
       frameIndex: 50
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 43adde9b102a1ea4e8f948c9ecc9f276
-    - name: The Circle_Frame_51
+    - name: Frame_51
       frameIndex: 51
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 83c525a2019f76e4db828507eaecdb2d
-    - name: The Circle_Frame_52
+    - name: Frame_52
       frameIndex: 52
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 480cfff085f31e945962aa946da1d1dc
-    - name: The Circle_Frame_53
+    - name: Frame_53
       frameIndex: 53
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 3db376ed2392ab845a1933b02fa908c7
-    - name: The Circle_Frame_54
+    - name: Frame_54
       frameIndex: 54
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 8b454b5201d3e4a43987aea4a02935e7
-    - name: The Circle_Frame_55
+    - name: Frame_55
       frameIndex: 55
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: bfe2ce3546a212445ae4fa36b7d05352
-    - name: The Circle_Frame_56
+    - name: Frame_56
       frameIndex: 56
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 053a0f4f7e26e1148abe67177818a0a2
-    - name: The Circle_Frame_57
+    - name: Frame_57
       frameIndex: 57
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 2affe39e991af8242b31b9410c84d58a
-    - name: The Circle_Frame_58
+    - name: Frame_58
       frameIndex: 58
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 3e4a6124c32cc82498784a9f0a5c4c4d
-    - name: The Circle_Frame_59
+    - name: Frame_59
       frameIndex: 59
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 26bab2f556108e445a3970295ff9906d
-    - name: The Circle_Frame_60
+    - name: Frame_60
       frameIndex: 60
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: a88142d6fea8b434fab8810a18eafbd7
-    - name: The Circle_Frame_61
+    - name: Frame_61
       frameIndex: 61
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: a5f6e8b4a9d3d5f4792c28b637f5257b
-    - name: The Circle_Frame_62
+    - name: Frame_62
       frameIndex: 62
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
         width: 128
         height: 128
       spriteId: 5002c24c6609f2d468c15677d044ef06
-    - name: The Circle_Frame_63
+    - name: Frame_63
       frameIndex: 63
+      additiveSortOrder: 0
       cellRect:
         x: -48
         y: -44
@@ -1929,3 +1999,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 35, y: 37}
+  previousTextureSize: {x: 512, y: 512}

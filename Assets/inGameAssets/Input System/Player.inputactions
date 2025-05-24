@@ -27,7 +27,7 @@
                     "name": "Jump",
                     "type": "Button",
                     "id": "83ca9001-146c-467d-b08b-8c0ba2756e56",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -36,7 +36,7 @@
                     "name": "Interact",
                     "type": "Button",
                     "id": "dd78d725-29a7-427b-8dd1-b2bc3e2c7746",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -45,7 +45,7 @@
                     "name": "ToggleLight",
                     "type": "Button",
                     "id": "49ee1f10-fd7f-4139-8484-71fd9c8f9b62",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -54,10 +54,10 @@
                     "name": "Exit",
                     "type": "Button",
                     "id": "df5cde1f-904c-48e2-886c-584c24cf6ef1",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
-                    "initialStateCheck": false
+                    "initialStateCheck": true
                 }
             ],
             "bindings": [
@@ -280,6 +280,17 @@
                     "action": "Exit",
                     "isComposite": false,
                     "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5b59ea4d-cb45-4efc-b693-5a6546255b82",
+                    "path": "<Gamepad>/start",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": ";Gamepad",
+                    "action": "Exit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         },
@@ -300,7 +311,7 @@
                     "name": "Submit",
                     "type": "Button",
                     "id": "a32b39d3-8a90-482d-9b94-704185c21732",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
@@ -309,7 +320,7 @@
                     "name": "Cancel",
                     "type": "Button",
                     "id": "b98fc765-e857-4eb8-8f2d-109da3ffa261",
-                    "expectedControlType": "Button",
+                    "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
